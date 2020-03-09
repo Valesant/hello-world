@@ -1,2 +1,3 @@
 # hello-world
-test to use github repository
+This is to handle the GIT way of life
+idk what to write
